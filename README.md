@@ -15,7 +15,7 @@
 
 <br />
 <div align="center">
-  <h1>Orano Project (STILL IN IDEATION PHASE)</h1>
+  <h1>Orano (Ontology-driven Reasoning with AI for Natural Operations) Project <br> STILL IN IDEATION PHASE</h1>
   <p>A library to benchmark various Large Language Models (LLMs) by receiving a prompt from the user, converting it into step-by-step actions, and interacting with a computer environment.</p>
   <a href="https://github.com/Gabriel382/orano"><strong>Explore the Docs »</strong></a>
   <br />

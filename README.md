@@ -1,4 +1,3 @@
-```md
 # Orano Project (STILL IN IDEATION PHASE)
 
 **Goal**: A library to benchmark various Large Language Models (LLMs) by:
@@ -125,4 +124,3 @@ This project is licensed under the [MIT License](./LICENSE). Please see the lice
 
 **Happy Building**  
 Stay tuned for updates, and check our devlog for day-to-day progress!
-```
